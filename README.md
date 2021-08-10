@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yesh Jadhav</h1>
-<h3 align="center">A smartworking web developer with extensive thinking.</h3>
+<h3 align="center">An Developer with openmindset and innovative thinking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yesh123456&label=Profile%20views&color=0e75b6&style=flat" alt="yesh123456" /> </p>
 
