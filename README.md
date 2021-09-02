@@ -7,12 +7,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [isco123.pythonanywhere.com](isco123.pythonanywhere.com)
+- 👨‍💻 Checkout my Portfolio https://bit.ly/3mSmh4P
 
 - 📫 How to reach me **yeshjadav4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13TTUOuw_7ls6V_6Jzl7Z-LKxiijNkDnp/view?usp=sharing](https://drive.google.com/file/d/13TTUOuw_7ls6V_6Jzl7Z-LKxiijNkDnp/view?usp=sharing)
-
+- 📄 My Resume https://bit.ly/3DIh3yu
 - ⚡ Fun fact **I am good gamer**
 
 <h3 align="left">Connect with me:</h3>
