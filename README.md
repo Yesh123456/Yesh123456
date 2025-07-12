@@ -5,14 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesh123456" alt="yesh123456" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 Checkout my Portfolio https://bit.ly/3mSmh4P
+- 🌱 I’m currently learning **AI Integrations**
 
 - 📫 How to reach me **yeshjadav4@gmail.com**
 
-- 📄 My Resume https://bit.ly/3DIh3yu
-- ⚡ Fun fact **I am good gamer**
+- 📄 My Resume https://shorturl.at/ksocP
+- ⚡ Fun fact **I am good debugger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
